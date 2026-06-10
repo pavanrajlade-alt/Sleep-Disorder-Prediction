@@ -1,0 +1,31 @@
+# Sleep Disorder Prediction
+
+## Objective
+To predict sleep disorders using health and lifestyle parameters.
+
+## Problem Statement
+Early detection of sleep disorders can improve health outcomes.
+
+## Tools Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Power BI
+
+## Workflow
+- Data preprocessing
+- Feature selection
+- Model training
+- Evaluation
+
+## Output
+- Predicted sleep disorder categories
+- Health insights
+
+## Power BI Dashboard
+
+![Sleep Disorders Dashboard](images/sleep-disorders-dashboard1)
+![Sleep Disorders Dashboard](images/sleep-disorders-dashboard2)
+
+## Author
+Pavan Lade
